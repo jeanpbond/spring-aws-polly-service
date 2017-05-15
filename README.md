@@ -1,5 +1,5 @@
 # Spring AWS Polly service
-Micro service who can generate an audio file from a text using the AWS Polly service : 
+Small app built with Spring boot that can generate an audio file from a text using the AWS Polly service.
 
 Usage
 =====

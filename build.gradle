@@ -29,7 +29,6 @@ dependencies {
 	compile('org.springframework.boot:spring-boot-starter-actuator')
 	compile('org.springframework.boot:spring-boot-starter-web')
 	compile('com.amazonaws:aws-java-sdk-polly:1.11.77')
-    compile('com.googlecode.soundlibs:jlayer:1.0.1-1')
 	compile group: 'io.javaslang', name: 'javaslang', version: '2.0.6'
 	compile group: 'com.cybozu.labs', name: 'langdetect', version: '1.1-20120112'
 	compile group: 'com.google.guava', name: 'guava', version: '21.0'
